@@ -11,14 +11,13 @@
 - 👩‍💻 [Facebook](https://facebook.com/shaaichi)
 - 📷 [Instagram](https://www.instagram.com/shath.fa)
 
-### My stats
+### Statistics my github
 <br>
       <img src="https://komarev.com/ghpvc/?username=chattisvia&label=Profile%20views&color=0e75b6&style=flat" alt="chattisvia" />
       <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=chattisvia&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
       <img id="most" style="margin-bottom: 55px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chattisvia&layout=compact&langs_count=10&show_icons=true&theme=dracula" />
-<br>
 
-### Add my discord
+### Make me a friend by adding me on discord
 <a href="https://discord.com/users/936464136911585330"><img src="https://lanyard-profile-readme.vercel.app/api/936464136911585330" alt="Discord" /></a>
 
 <!--
