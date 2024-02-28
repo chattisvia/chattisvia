@@ -1,9 +1,9 @@
 <h1 align="center">Chatam D. Fasha</h1>
 
 ### 👨‍💻 About Me (●'◡'●)
-- 😎 Hello, my name is Chatam Disty Fashanjaya, my friend call me fasha / asha / asa
-- 🌱 I'm studying College of Informatics and Computer Management (S1) at EL RAHMA YOGYAKARTA
-- 🔭 I'm currently learning. [Website Link](https://asasama.github.io/)
+- 😎 I'm Asa
+- 🌱 I'm studying College of Informatics and Computer Management (S1) at El Rahma Yogyakarta
+- 🔭 Watch my project [Website Link](https://asasama.github.io/)
 - 💬 I'm member of web programing unpas
 
 
